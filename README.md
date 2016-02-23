@@ -1,2 +1,2 @@
 # demogit
-Une demo de git qui se pqsse bien
+Une demo de git qui se passe bien modifié depuis github
